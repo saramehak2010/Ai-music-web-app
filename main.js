@@ -1,0 +1,3 @@
+function songname() {
+    song.songname;
+}
